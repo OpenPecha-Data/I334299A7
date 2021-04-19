@@ -3,23 +3,20 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   efe9c96a736b44f6a24bde93b797fc73:
-    page_index: 1a
-    page_info: null
-    reference: I1PD281390001
+    imgnum: 1
+    reference: I1PD281390001.tif
     span:
       start: 0
       end: 655
   ee2dc457c5ed4e8984d68d7f780124eb:
-    page_index: 2a
-    page_info: null
-    reference: I1PD281390003
+    imgnum: 3
+    reference: I1PD281390003.tif
     span:
       start: 660
       end: 771
   e275103d332141378bda0d5b887d548d:
-    page_index: 105b
-    page_info: null
-    reference: I1PD281390210
+    imgnum: 210
+    reference: I1PD281390210.tif
     span:
       start: 776
       end: 956
